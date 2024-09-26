@@ -1,6 +1,8 @@
 # region Imports
 import EpreuveCodeUn
 import EpreuveCodeDeux
+import EpreuveCodeUn_Modifie
+from EpreuveCodeUn_Modifie import *
 # endregion
 
 
@@ -14,6 +16,7 @@ import EpreuveCodeDeux
 # endregion
 
 # region Programme principale
-# EpreuveCodeUn.LancementProgramme()
-EpreuveCodeDeux.LancementProgramme()
+#EpreuveCodeUn.LancementProgramme()
+EpreuveCodeUn_Modifie.LancementProgramme()
+#EpreuveCodeDeux.LancementProgramme()
 # endregion
