@@ -1,6 +1,5 @@
 # region Imports
-import EpreuveCodeUn
-import EpreuveCodeDeux
+
 # endregion
 
 
@@ -14,6 +13,9 @@ import EpreuveCodeDeux
 # endregion
 
 # region Programme principale
-# EpreuveCodeUn.LancementProgramme()
-EpreuveCodeDeux.LancementProgramme()
+def LancementProgramme():
+    print("Début du programme")
+
+    print("Fin du programme")
+
 # endregion
